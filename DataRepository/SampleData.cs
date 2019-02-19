@@ -6,6 +6,7 @@ namespace CoursesAPI.DataRepository
 {
     public class SampleData
     {
+        // Sample data setup
         private List<Course> CourseData()
         {
             List<Course> courses = new List<Course>()
