@@ -1,5 +1,5 @@
 # CoursesAPI
-API to fetch Course data
+API to fetch Course data from a sample data repository
 
 
 Technologies
